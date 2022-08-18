@@ -1,0 +1,31 @@
+	<?xml version="1.0" encoding="UTF-8"?>
+	<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+	<plist version="1.0">
+	<dict>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>assets</key>
+				<array>
+					<dict>
+						<key>kind</key>
+						<string>software-package</string>
+						<key>url</key>
+	          <string>https://archive.org/download/8-bp-rcs-5.7.1-1658668215_202207/8%20BP%20-%20RCS_5.7.1_1658668215.ipa</string>
+					</dict>
+				</array>
+				<key>metadata</key>
+				<dict>
+					<key>bundle-identifier</key>
+	        <string>com.miniclip.8ballpoolmult</string>
+					<key>bundle-version</key>
+					<string>5.8.1</string>
+					<key>kind</key>
+					<string>software</string>
+					<key>title</key>
+					<string>8BALL POOL @AhmedStore</string>
+				</dict>
+			</dict>
+		</array>
+	</dict>
+	</plist>
