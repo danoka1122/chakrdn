@@ -19,20 +19,19 @@
 					<string>display-image</string>
 					<key>url</key>
 					<string> 
-http://kurdstore.10001mb.com/icon.png</string>
+/icon.png</string>
 				</dict>
 				<dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ai.PicsArt.videochat-iphone</string>
-				<key>bundle-version</key>
+				<string>>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>PicsArt kurdstore </string>
+				<string>PicsArt  </string>
 			</dict>
 		</dict>
 	</array>
